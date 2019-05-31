@@ -7,7 +7,7 @@
 #include "contacto.h"
 #include "hashtable-main.h"
 #include "hashtable-dominio.h"
-#include "lista.h"
+#include "linked-list.h"
 
 #define NOMELEN 1024
 #define EMAILLEN 512
